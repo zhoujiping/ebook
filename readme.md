@@ -11,13 +11,13 @@
 
 
 #### Android 
- [Android系统安全与攻防]                (./01_programming/Android/Android系统安全与攻防.pdf)
+ [Android系统安全与攻防](./01_programming/Android/Android系统安全与攻防.pdf)
 
- [Android源码设计模式解析与实战] (./01_programming/Android/Android源码设计模式解析与实战.pdf)
+ [Android源码设计模式解析与实战](./01_programming/Android/Android源码设计模式解析与实战.pdf)
  
- [最强Android书 架构大剖析]          (./01_programming/Android/最强Android书 架构大剖析.pdf)
+ [最强Android书 架构大剖析](./01_programming/Android/最强Android书架构大剖析.pdf)
  
- [Android系统源代码情景分析]       (./01_programming/Android/Android系统源代码情景分析.pdf)
+ [Android系统源代码情景分析](./01_programming/Android/Android系统源代码情景分析.pdf)
 
 #### iOS 
 [Objective-C_2.0_Mac和iOS开发实践指南(jb51.net).pdf](./01_programming/iOS/Objective-C_2.0_Mac和iOS开发实践指南(jb51.net).pdf)
@@ -131,6 +131,8 @@
 [Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf](./01_programming/python/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf)
 
 [Python编程：从入门到实践.pdf](./01_programming/python/Python编程：从入门到实践.pdf)
+
+[Python 背记手册.pdf](./01_programming/python/Python 背记手册.pdf)
 
 [Python 学习笔记 第二版.pdf](./01_programming/python/Python 学习笔记 第二版.pdf)
 
