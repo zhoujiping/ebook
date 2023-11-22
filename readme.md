@@ -132,7 +132,7 @@
 
 [Python编程：从入门到实践.pdf](./01_programming/python/Python编程：从入门到实践.pdf)
 
-[Python 背记手册.pdf](./01_programming/python/Python 背记手册.pdf)
+[Python 背记手册.pdf](./01_programming/python/Python背记手册.pdf)
 
 [Python 学习笔记 第二版.pdf](./01_programming/python/Python 学习笔记 第二版.pdf)
 
